@@ -1,0 +1,22 @@
+{
+  "name": "clientside",
+  "authors": [
+    "broerjuang <juangwiantoro@gmail.com>"
+  ],
+  "description": "memeo restful crud",
+  "main": "index.html",
+  "keywords": [
+    "restful",
+    "crud"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
